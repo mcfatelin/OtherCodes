@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>first_name</key>
+		<string>Donald</string>
+		<key>middle_name</key>
+		<string>John</string>
+		<key>last_name</key>
+		<string>Trump</string>
+		<key>age</key>
+		<integer>70</integer>
+		<key>gender</key>
+		<string>male</string>
+		<key>position</key>
+		<string>President of United States</string>
+		<key>city</key>
+		<string>Washington DC</string>
+	</dict>
+	<dict>
+		<key>first_name</key>
+		<string>Masahito</string>
+		<key>last_name</key>
+		<string>Hitachi</string>
+		<key>gender</key>
+		<string>male</string>
+		<key>age</key>
+		<integer>80</integer>
+		<key>position</key>
+		<string>Prince of Imperial House of Japan</string>
+		<key>city</key>
+		<string>Tokyo</string>
+		<key>description</key>
+		<array>
+			<string>Poliomyelitis</string>
+		</array>
+	</dict>
+	<dict>
+		<key>first_name</key>
+		<string>Fernando</string>
+		<key>middle_name</key>
+		<string>Alonso</string>
+		<key>last_name</key>
+		<string>Diaz</string>
+		<key>age</key>
+		<integer>35</integer>
+		<key>gender</key>
+		<string>male</string>
+		<key>position</key>
+		<string>Formula One racer</string>
+		<key>city</key>
+		<string>Oviedo</string>
+	</dict>
+	<dict>
+		<key>first_name</key>
+		<string>Vladimir</string>
+		<key>middle_name</key>
+		<string>Vladimirovich</string>
+		<key>last_name</key>
+		<string>Putin</string>
+		<key>age</key>
+		<integer>64</integer>
+		<key>gender</key>
+		<string>male</string>
+		<key>position</key>
+		<string>President of the Russian Federation</string>
+		<key>city</key>
+		<string>Moskow</string>
+	</dict>
+	<dict>
+		<key>first_name</key>
+		<string>Xiangdong</string>
+		<key>last_name</key>
+		<string>Ji</string>
+		<key>age</key>
+		<integer>65</integer>
+		<key>gender</key>
+		<string>male</string>
+		<key>position</key>
+		<string>Professor in Physics</string>
+		<key>city</key>
+		<string>Shanghai</string>
+	</dict>
+	<dict>
+		<key>first_name</key>
+		<string>Qing</string>
+		<key>last_name</key>
+		<string>Lin</string>
+		<key>gender</key>
+		<string>male</string>
+		<key>age</key>
+		<integer>28</integer>
+		<key>position</key>
+		<string>Researcher at Columbia University</string>
+		<key>description</key>
+		<array>
+			<string>Allergic body condition</string>
+			<string>Asthma</string>
+		</array>
+	</dict>
+</array>
+</plist>
